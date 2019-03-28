@@ -134,6 +134,7 @@ Master                 Develop
 - `git stash show -p` see what is a stash
 - `git commit message` : **If applied, this commit will** => refactor subsystem X for readability
 - `:) esc:wq` ~ save you from get out of edit mode
+- `git log --oneline` ~ show commits in one line
 
 
 
